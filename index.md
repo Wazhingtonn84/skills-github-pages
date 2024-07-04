@@ -35,7 +35,6 @@ Feel free to reach out:
 - **GitHub**: [username](https://github.com/username)
 - **LinkedIn**: [username](https://www.linkedin.com/in/username)
 
-![Profile Image](https://via.placeholder.com/150 "Profile Image")
 
 ---
 
